@@ -1,0 +1,26 @@
+[
+	{
+		"fileName": "poc.groovy",
+		"namespace": "su/moneycare/service/precalc",
+		"name": "CalculateCategoryOffers",
+		"lang": "groovy",
+		"type": "calc",
+		"metadata": { "description": "PoC", "version": "poc-1" }
+	},
+	{
+		"fileName": "poc.groovy",
+		"namespace": "su/moneycare/service/precalc",
+		"name": "ProcessBankOffers",
+		"lang": "groovy",
+		"type": "calc",
+		"metadata": { "description": "PoC", "version": "poc-1" }
+	},
+	{
+		"fileName": "poc.groovy",
+		"namespace": "su/moneycare/service/precalc",
+		"name": "ru.pos.credit.ProcessFilterBanks",
+		"lang": "groovy",
+		"type": "calc",
+		"metadata": { "description": "PoC", "version": "poc-1" }
+	}
+]
